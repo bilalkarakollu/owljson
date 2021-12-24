@@ -2,12 +2,14 @@
   {
     "id": 0,
     "description": "OWLNFT 0",
+    "external_url" : "https://www.google.com",
     "image": "https://api.coinvadi.com/res/owls/1.png",
     "name": "My OWLNFT 0"
   },
   {
     "id": 1,
     "description": "OWLNFT 1",
+    "external_url" : "https://www.google.com",
     "image": "https://api.coinvadi.com/res/owls/2.png",
     "name": "My OWLNFT 1"
   }
